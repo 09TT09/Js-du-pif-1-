@@ -1,0 +1,45 @@
+html{
+	background-color: #343434;
+}
+
+.div{
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	/*border-radius: 50%;
+	margin-left: 1px;
+	margin-top: 1px;*/
+	text-align: center;
+	line-height: 50px;
+	border: solid black 1px;
+}
+
+.compteur{
+	margin: auto;
+	width: 100%;
+	height: 30px;
+	bottom: 0;
+	text-align: center;
+	color: white;
+}
+
+#span{
+	color: white;
+}
+
+.classer{
+	margin-top: 10px;
+	width: 70px;
+	height: 30px;
+	color: white;
+	background-color: crimson;
+	border: solid black 1px;
+	margin-left: 2px;
+}
+
+.classement{
+    margin-top:10px;
+    border:solid white 1px;
+    text-align:left;
+	padding: 2px;
+}
